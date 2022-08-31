@@ -7,5 +7,3 @@
 * https://github.com/tugaytuna
 
 * https://www.linkedin.com/in/tunatugay/
-
-* denemes
