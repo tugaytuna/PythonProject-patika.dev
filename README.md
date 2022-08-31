@@ -1,9 +1,11 @@
 # PythonProject-patika.dev
-Test - Python Project, patika.dev
+## Test - Python Project, patika.dev
 
 
-https://app.patika.dev/tugaytuna
+* https://app.patika.dev/tugaytuna
 
-https://github.com/tugaytuna
+* https://github.com/tugaytuna
 
-https://www.linkedin.com/in/tunatugay/
+* https://www.linkedin.com/in/tunatugay/
+
+* denemes
